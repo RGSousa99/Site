@@ -12,7 +12,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #eff1f3;
-  background-color: #1a2128;
+  background-color: #04102b;
 }
 
 a {
@@ -443,7 +443,7 @@ section {
   width: 100%;
   position: relative;
   text-align: center;
-  background: #434343;
+  background: #ffffff;
 }
 
 .facts .count-box i {
@@ -453,7 +453,7 @@ section {
   transform: translateX(-50%);
   font-size: 24px;
   background: #0563bb;
-  color: #fff;
+  color: #ffffff;
   border-radius: 50px;
   display: inline-flex;
   align-items: center;
@@ -466,7 +466,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #011426;
+  color: #000000;
 }
 
 .facts .count-box p {
@@ -474,6 +474,7 @@ section {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -493,7 +494,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #45505b;
+  color: #ffffff;
 }
 
 .skills .progress .skill .val {
@@ -520,7 +521,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #d5e6ff;
+  color: #ffffffc9;
 }
 
 .resume .resume-item {
@@ -849,6 +850,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: black;
 }
 
 .services .icon-box:hover {
@@ -1017,6 +1019,7 @@ section {
 .contact .info {
   width: 100%;
   background: #fff;
+  padding: 20px;
 }
 
 .contact .info i {
@@ -1063,6 +1066,7 @@ section {
 .contact .php-email-form {
   width: 100%;
   background: #fff;
+  padding: 20px;
 }
 
 .contact .php-email-form .form-group {
